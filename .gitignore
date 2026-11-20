@@ -1,0 +1,8 @@
+# 本机运行时生成的日志、测试结果和临时文件
+logs/
+state/
+outputs/
+probe-run-*/
+disconnect-run-*/
+disconnect-dry-*/
+config.json

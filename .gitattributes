@@ -1,0 +1,4 @@
+# Windows 脚本按原样保存，不做换行转换：.ps1 带 UTF-8 BOM，.cmd 用 CRLF 换行。
+# 这样下载 zip 或克隆得到的文件和仓库里完全一致。
+*.ps1 -text
+*.cmd -text
